@@ -1,0 +1,13 @@
+extern const GeoLayout planets_geo[];
+extern Lights1 planets_f3dlite_material_lights;
+extern u8 planets_Untitled_ci4[];
+extern u8 planets_Untitled_ci4_pal_rgba16[];
+extern Vtx planets_big_mesh_layer_1_vtx_0[102];
+extern Gfx planets_big_mesh_layer_1_tri_0[];
+extern Vtx planets_smol_mesh_layer_1_vtx_0[102];
+extern Gfx planets_smol_mesh_layer_1_tri_0[];
+extern Gfx mat_planets_f3dlite_material[];
+extern Gfx mat_revert_planets_f3dlite_material[];
+extern Gfx planets_big_mesh_layer_1[];
+extern Gfx planets_smol_mesh_layer_1[];
+extern Gfx planets_material_revert_render_settings[];

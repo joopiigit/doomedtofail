@@ -30,3 +30,7 @@
 #include "src/s2d_engine/config.h"
 #include FONT_C_FILE
 #endif
+
+#include "planets/model.inc.c"
+#include "planets/anims/data.inc.c"
+#include "planets/anims/table.inc.c"
