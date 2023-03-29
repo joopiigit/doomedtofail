@@ -6088,3 +6088,9 @@ const BehaviorScript bhvIntroScene[] = {
 };
 
 
+const BehaviorScript bhvPlanets[] = {
+    BEGIN(OBJ_LIST_SURFACE),
+    LOAD_ANIMATIONS(oAnimations, planets_anims),
+    ANIMATE(0),
+};
+
